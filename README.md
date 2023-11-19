@@ -1,6 +1,7 @@
 # EFI-MSIB560M-PRO-E-OSXSONOMA
 Hackintosh funcional no setup com MSI B560M-PRO-E + i310100F + RX570 8GB
 
+GENTE, IGNOREM O SONOMA NO NOME DESTE REPOSITÓRIO, ESSE SETUP É COMPATÍVEL COM PRATICAMENTE QUALQUER VERSÃO DO MACOS!
 
 Esta pasta contém a EFI que gerei para o meu setup rodar o hackintosh.
 Ele é 100% funcional e não contém nem Kexts e nem materiais a mais do que o necessário,
