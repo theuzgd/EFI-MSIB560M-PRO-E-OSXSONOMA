@@ -20,4 +20,5 @@ MAC OS SONOMA RODANDO PERFEITAMENTE NESSA CONFIGURAÇÃO.
 PS: você deverá adicionar no boot-args o parâmetro alcid=11 para habilitar o codec de áudio interno desta placa-mãe. O áudio HDMi da placa de vídeo é facilmente reconhecida.
 
 Créditos: Gabriel Luchina pelo repositório da 10th
+
 Visite o github dele: https://github.com/luchina-gabriel
